@@ -1,0 +1,14 @@
+https://download.oracle.com/java/17/archive/jdk-17.0.5_windows-x64_bin.msi
+https://www.7-zip.org/a/7z2201-x64.msi
+https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe
+https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
+https://builds.parsecgaming.com/package/parsec-windows.exe
+https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer.exe
+https://downloads.corsair.com/Files/CUE/iCUESetup_4.29.203_release.msi
+https://gamedownloads.rockstargames.com/public/installer/Rockstar-Games-Launcher.exe
+https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi
+https://net.geo.opera.com/opera/stable/windows?utm_tryagain=yes&utm_source=duckduckgo&utm_medium=ose&utm_campaign=(none)&http_referrer=https%3A%2F%2Fduckduckgo.com%2F&utm_site=opera_com&&utm_lastpage=opera.com/download
+https://mirror.init7.net/videolan/vlc/3.0.17.4/win64/vlc-3.0.17.4-win64.exe
+https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.eu.exe
+https://download.revouninstaller.com/download/revosetup.exe
+https://sg-public-api.hoyoverse.com/event/download_porter/link/ys_global/genshinimpactpc/default
