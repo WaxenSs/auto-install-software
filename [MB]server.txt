@@ -25,3 +25,4 @@ https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live
 https://download.revouninstaller.com/download/revosetup.exe
 https://downloads.sandisk.com/downloads/sandisk-security-win-1-0-0-18.zip
 https://files.multimc.org/downloads/mmc-stable-win32.zip
+https://fr.download.nvidia.com/GFE/GFEClient/3.26.0.154/GeForce_Experience_v3.26.0.154.exe

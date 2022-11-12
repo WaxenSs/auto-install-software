@@ -12,3 +12,4 @@ https://mirror.init7.net/videolan/vlc/3.0.17.4/win64/vlc-3.0.17.4-win64.exe
 https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.eu.exe
 https://download.revouninstaller.com/download/revosetup.exe
 https://sg-public-api.hoyoverse.com/event/download_porter/link/ys_global/genshinimpactpc/default
+https://fr.download.nvidia.com/GFE/GFEClient/3.26.0.154/GeForce_Experience_v3.26.0.154.exe
