@@ -1,0 +1,14 @@
+https://download.oracle.com/java/17/archive/jdk-17.0.5_windows-x64_bin.msi
+https://www.7-zip.org/a/7z2201-x64.msi
+https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe
+https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86
+https://builds.parsecgaming.com/package/parsec-windows.exe
+https://downloads.corsair.com/Files/CUE/iCUESetup_4.29.203_release.msi
+https://mirror2.internetdownloadmanager.com/idman641build3.exe?v=lt&filename=idman641build3.exe
+https://gamedownloads.rockstargames.com/public/installer/Rockstar-Games-Launcher.exe
+https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi
+https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B90F3C091-8F65-DA2B-AA97-82EC83A9FB9E%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dtrue%26ap%3Dx64-stable-statsdef_0%26brand%3DGCEA/dl/chrome/install/googlechromestandaloneenterprise64.msi
+https://mirror.init7.net/videolan/vlc/3.0.17.4/win64/vlc-3.0.17.4-win64.exe
+https://download.revouninstaller.com/download/revosetup.exe
+http://www.dm.origin.com/download
+https://www.battle.net/download/getInstallerForGame?os=win&gameProgram=BATTLENET_APP&version=Live
