@@ -17,8 +17,11 @@ https://cdn-fastly.obsproject.com/downloads/OBS-Studio-28.1.1-Full-Installer-x64
 https://gamedownloads.rockstargames.com/public/installer/Rockstar-Games-Launcher.exe
 https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi
 https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent_4.4.5_setup.exe
-https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B90F3C091-8F65-DA2B-AA97-82EC83A9FB9E%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dtrue%26ap%3Dx64-stable-statsdef_0%26brand%3DGCEA/dl/chrome/install/googlechromestandaloneenterprise64.msi
+https://download.mozilla.org/?product=firefox-msi-latest-ssl&os=win64&lang=fr&_gl=1*1xgwuq5*_ga*MjExMTA5OTAzMS4xNjY4MTY0Njg3*_ga_MQ7767QQQW*MTY2ODE2NTg0MC4xLjAuMTY2ODE2NTg0MC4wLjAuMA
 https://mirror.init7.net/videolan/vlc/3.0.17.4/win64/vlc-3.0.17.4-win64.exe
 https://international.download.nvidia.com/Windows/broadcast/sdk/AFX/2022-08-30_NVIDIA_AFX_SDK_Win_v1.2.0.13_Turing.exe
+https://downloads.1password.com/win/1PasswordSetup-latest.exe
+https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.eu.exe
+https://download.revouninstaller.com/download/revosetup.exe
 https://downloads.sandisk.com/downloads/sandisk-security-win-1-0-0-18.zip
 https://files.multimc.org/downloads/mmc-stable-win32.zip
