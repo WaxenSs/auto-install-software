@@ -33,7 +33,6 @@ cecho {CF}Downloading the software from the server.txt file{#}{\n}
 wget.exe -N -P Downloaded --content-disposition -i server.txt -q --show-progress
 
 cecho {CF}Silent mode{#}{\n}
-
 for %%a in (Downloaded\*.msi) do (
 	echo Installing %%a
 	msiexec /i %~dp0%%a /qn /l*v msi.log
@@ -50,7 +49,29 @@ for %%a in (Downloaded\*.exe) do (
 	if "%errorlevel%" == "0" (cecho {0A}    Done{#}{\n}) else (goto err)
 )
 
-cecho {9F} Successful {#}{\n}
+cecho {2A}Completed and requested software successfully installed!{#}{\n}
+
+echo .
+echo #########################################################################
+echo # Do you want to make different improvements to your computer (Y/[N]) ? #
+echo #                                                                       #
+echo # Includes:                                                             #
+echo # - Disabling mouse acceleration                                        #
+echo # - Restore Windows 10 context menu                                     #
+echo #                                                                       #
+echo # This step is optional, but it is highly recommended to do it.         #
+echo #########################################################################
+
+SET /P AREYOUSURE=Type "Y" to make different improvements to your computer, or "N" to stop the script: 
+IF /I "%AREYOUSURE%" NEQ "Y" GOTO END
+
+start "" "optimization.bat"
+cecho {9F}Successful, you can close this page and continue in the new !{#}{\n}
+goto END
+
+:END
+endlocal
+
 goto END
 
 :err
